@@ -1,0 +1,2 @@
+clientId=${1} clientSecret=${2} grafanaUser=${3} grafanaPass=${4} grafanaHTTP=${5} PORT=8765 node bot.js #&
+#ssh -R mpbot-test:80:localhost:${1} serveo.net -fN -o StrictHostKeyChecking=no -o ServerAliveInterval=60
