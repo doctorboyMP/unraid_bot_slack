@@ -1,6 +1,6 @@
 {
     "name": "unraid_bot_slack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A custom Slack bot with Botkit Studio to be used on your unraid box",
     "main": "bot.js",
     "scripts": {
